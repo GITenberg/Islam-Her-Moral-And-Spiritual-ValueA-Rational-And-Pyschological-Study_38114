@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39238'
     url: http://www.gutenberg.org/2009/agents/39238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38114#Islam-Her-Moral-And-Spiritual-ValueA-Rational-And-Pyschological-Study
 gutenberg_issued: '2011-11-23'
 gutenberg_type: Text
 identifiers:
